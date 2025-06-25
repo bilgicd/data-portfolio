@@ -80,6 +80,8 @@ DAX
 Excel (for sample data preparation)
 
 
+
+
 📁 Project Access Notice
 Please note that direct access to the project files and visuals is temporarily unavailable. I’ve only recently started building this GitHub portfolio, and I will be able to upload the full project materials including Power BI reports, SQL scripts, and app demos in approximately two weeks.
 
@@ -87,8 +89,6 @@ Please note that direct access to the project files and visuals is temporarily u
 
 Feel free to connect with me or ask questions:
 - 📧 Email: bilgicd58@gmail.com
-- 💼 LinkedIn: [your-linkedin-profile]
-- 🌐 Portfolio: [your personal website, if any]
 
 ---
 
