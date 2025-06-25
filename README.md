@@ -56,6 +56,33 @@ A low-code application for managing security data, connected to SharePoint and v
 
 ---
 
+## 4. Performance Dashboard Portfolio Project (Power BI)
+
+### Description:
+This Power BI project showcases a professional performance dashboard built for a fictional company (PlantCo). The goal was to create a clean, value-focused report suitable for executive use.
+
+### Key Steps:
+Designed a minimalist, decision-oriented layout with dynamic KPIs and visuals
+
+Implemented conditional formatting and custom tooltips for clarity
+
+Used scatter plots, treemaps, waterfall charts, and line graphs to tell a data story
+
+Incorporated YTD metrics, drill-downs, and dynamic titles
+
+Focused on user experience, interactivity, and clean data visuals
+
+### Tools Used:
+Power BI Desktop
+
+DAX
+
+Excel (for sample data preparation)
+
+
+📁 Project Access Notice
+Please note that direct access to the project files and visuals is temporarily unavailable. I’ve only recently started building this GitHub portfolio, and I will be able to upload the full project materials including Power BI reports, SQL scripts, and app demos in approximately two weeks.
+
 ## 📫 Contact
 
 Feel free to connect with me or ask questions:
