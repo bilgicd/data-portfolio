@@ -87,7 +87,7 @@ Please note that direct access to the project files and visuals is temporarily u
 
 ## 📫 Contact
 
-Feel free to connect with me or ask questions:
+Feel free to contact me to ask questions:
 - 📧 Email: bilgicd58@gmail.com
 
 ---
