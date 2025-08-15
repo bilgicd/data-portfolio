@@ -82,8 +82,8 @@ Excel (for sample data preparation)
 
 
 
-📁 Project Access Notice
-Please note that direct access to the project files and visuals is temporarily unavailable. I’ve only recently started building this GitHub portfolio, and I will be able to upload the full project materials including Power BI reports, SQL scripts, and app demos in approximately two weeks.
+📁<img width="932" height="917" alt="tmp_e4ac7342-1eb5-4106-abff-83f4c70a511d" src="https://github.com/user-attachments/assets/1926b210-cc23-44ff-9cd9-1e3ed2116e34" />
+
 
 ## 📫 Contact
 
