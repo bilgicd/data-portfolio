@@ -1,6 +1,6 @@
 # 📊 Data Analytics & Reporting Portfolio
 
-Welcome to my portfolio showcasing key data projects involving SQL Server, Power BI, Power Apps, and data integration workflows. These projects demonstrate my ability to design databases, query and transform data, and build meaningful visualizations for real-world use cases.
+Welcome to my portfolio showcasing key data projects involving SQL Server, Power BI, Power Apps, data integration workflows and a web app project. These projects demonstrate my ability to design databases, query and transform data, and build meaningful visualizations for real-world use cases.
 
 ---
 
