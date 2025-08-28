@@ -29,6 +29,7 @@ This project involved building a complete reporting solution for tracking change
 
 <img width="1367" height="753" alt="tmp_9a1a0a40-4915-4e77-b82e-b9e791c6b0c4" src="https://github.com/user-attachments/assets/186d4ddf-2b99-4931-89be-3ed0e47413e9" />
 
+<img width="909" height="463" alt="tmp_5626c5fa-44f3-4bfb-a57e-13cf956f106a" src="https://github.com/user-attachments/assets/1a65ca84-b346-4e11-ac2b-7e3117df472b" />
 
 
 ---
