@@ -20,6 +20,11 @@ This project involved building a complete reporting solution for tracking change
 - Power BI Desktop
 - SQL
 
+<img width="1106" height="704" alt="tmp_d287c968-105f-4245-b0bd-24cc5289aed8" src="https://github.com/user-attachments/assets/bc5c1ac3-3994-4e2b-a7ef-d817c6f4c1ae" />
+
+<img width="1523" height="434" alt="tmp_3eb3c3a3-09ff-4b1d-af84-da91301ea34f" src="https://github.com/user-attachments/assets/21a6ad5d-fd32-40b3-94ed-fe6e34af6437" />
+
+
 <img width="932" height="917" alt="tmp_e4ac7342-1eb5-4106-abff-83f4c70a511d" src="https://github.com/user-attachments/assets/ccc84ac1-e0ab-48d0-aa45-3e1e1b4bb16f" />
 
 <img width="1367" height="753" alt="tmp_9a1a0a40-4915-4e77-b82e-b9e791c6b0c4" src="https://github.com/user-attachments/assets/186d4ddf-2b99-4931-89be-3ed0e47413e9" />
@@ -40,7 +45,7 @@ A practical data extraction task to assist the team with council data analysis.
 - SQL Server Studio
 - Microsoft Excel
 
----
+![Screenshot_20250828_125312_Word](https://github.com/user-attachments/assets/4a3ca421-7f46-4c2c-abcb-76fedc30a140)
 
 ## 3. Security Management Power App + Power BI
 
@@ -130,6 +135,7 @@ HTML / CSS
 Jinja2 templating
 
 Please note that I can't upload the code for this project because it's on a laptop I do not have access to at this moment.
+
 
 
 ---
