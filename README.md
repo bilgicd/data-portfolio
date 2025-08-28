@@ -29,12 +29,9 @@ This project involved building a complete reporting solution for tracking change
 
 <img width="1367" height="753" alt="tmp_9a1a0a40-4915-4e77-b82e-b9e791c6b0c4" src="https://github.com/user-attachments/assets/186d4ddf-2b99-4931-89be-3ed0e47413e9" />
 
-<img width="909" height="463" alt="tmp_5626c5fa-44f3-4bfb-a57e-13cf956f106a" src="https://github.com/user-attachments/assets/1a65ca84-b346-4e11-ac2b-7e3117df472b" />
-
-
 ---
 
-## 2. Council Data Extract (SQL Studio + Excel)
+## 2. Council Data Extract (SQL Sdio + Excel)
 
 ### Description:
 A practical data extraction task to assist the team with council data analysis.
@@ -78,7 +75,7 @@ https://github.com/user-attachments/assets/37f5a032-bffb-4326-be2d-540d204f4c01
 
 <img width="928" height="511" alt="tmp_685a5cd8-2b4e-4cef-925c-af74c2f2a731" src="https://github.com/user-attachments/assets/355c33fa-2469-4dce-b4bc-9002f7e980fc" />
 <img width="928" height="500" alt="tmp_0cacf43b-f5c8-457a-a10b-ce159779e935" src="https://github.com/user-attachments/assets/e2905183-8486-4963-8a3a-eac6fc614c49" />
-
+<img width="909" height="463" alt="tmp_5626c5fa-44f3-4bfb-a57e-13cf956f106a" src="https://github.com/user-attachments/assets/1a65ca84-b346-4e11-ac2b-7e3117df472b" />
 
 
 ---
